@@ -7,6 +7,8 @@ In this project, I am building a word guessing game from the command line utiliz
 The user should clone the repository from GitHub and download Node.js. This application also requires a file system, inquirer module, and jest for dependency to run the tests. 
 ## Usage 
 Use inquirer from your command line to play a word guessing game. 
+
+https://drive.google.com/file/d/1iKk5o0qvjJuOCzZIPewfr8nqpnTE7a4D/view
 ## Credit 
 Eugene Isingizwe
 ## How To Contribute 
